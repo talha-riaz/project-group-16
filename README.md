@@ -1,4 +1,4 @@
-# Welcome to the Project Repo of Group 16 
+# Welcome to the Project Repo of the Tutoring System Application 
 ## Team Members
 
 1. Erdong Luo
