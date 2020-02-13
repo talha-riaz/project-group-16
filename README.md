@@ -4,14 +4,6 @@ Android             |  Web
 :-------------------------:|:-------------------------:
 ![](https://github.com/McGill-ECSE321-Fall2019/project-group-16/blob/master/AppScreenshots/3.png)  |  ![](https://github.com/McGill-ECSE321-Fall2019/project-group-16/blob/master/AppScreenshots/WebApp/Login.png)
 
-## Team Members
-
-1. Erdong Luo
-2. Mustafain Ali Khan
-3. Paul Hooley
-4. Talha Riaz
-5. Zheng Cui
-
 ### -> Access [Project Wiki](https://github.com/McGill-ECSE321-Fall2019/project-group-16/wiki)
  
  ## Scope of the Project:
