@@ -1,7 +1,9 @@
 # The Tutoring System Application 
 
-<img src="https://github.com/McGill-ECSE321-Fall2019/project-group-16/blob/master/AppScreenshots/3.png" height="300" width="150"/>
-<img src="https://github.com/McGill-ECSE321-Fall2019/project-group-16/blob/master/AppScreenshots/WebApp/Login.png" height="200" width="420"/>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/McGill-ECSE321-Fall2019/project-group-16/blob/master/AppScreenshots/3.png" height="300" width="150"/)  |  ![](https://github.com/McGill-ECSE321-Fall2019/project-group-16/blob/master/AppScreenshots/WebApp/Login.png)
+
 ## Team Members
 
 1. Erdong Luo
