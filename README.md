@@ -1,8 +1,8 @@
 # The Tutoring System Application 
 
-Solarized dark             |  Solarized Ocean
+Android             |  Web
 :-------------------------:|:-------------------------:
-![](https://github.com/McGill-ECSE321-Fall2019/project-group-16/blob/master/AppScreenshots/3.png" height="300" width="150"/)  |  ![](https://github.com/McGill-ECSE321-Fall2019/project-group-16/blob/master/AppScreenshots/WebApp/Login.png)
+![](https://github.com/McGill-ECSE321-Fall2019/project-group-16/blob/master/AppScreenshots/3.png)  |  ![](https://github.com/McGill-ECSE321-Fall2019/project-group-16/blob/master/AppScreenshots/WebApp/Login.png)
 
 ## Team Members
 
